@@ -1,0 +1,31 @@
+_repo: Chronica-de-el-rei-D.-Affonso-Henriques_18026
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galvão, Duarte
+    alias: Galvao, Duarte
+    birthdate: 1446
+    deathdate: 1517
+    gutenberg_agent_id: '7758'
+    url: http://www.gutenberg.org/2009/agents/7758
+description: ''
+gutenberg_bookshelf:
+- PT História
+- PT Biografia
+gutenberg_issued: '2006-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18026'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Afonso I, King of Portugal, 1109?-1185'
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- Afonso I, 1139-1185'
+title: Chronica de el-rei D. Affonso Henriques
+url: http://www.gutenberg.org/ebooks/18026
